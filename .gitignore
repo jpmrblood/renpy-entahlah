@@ -103,3 +103,7 @@ ENV/
 # logs
 errors.txt
 log.txt
+
+# Saving
+.save
+.bak
